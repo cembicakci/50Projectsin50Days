@@ -18,7 +18,6 @@ Incluedes mini projects which is created using HTML, CSS and JavaScript.
 | 15  | [Incrementing-Counter](https://github.com/cembicakci/50Projectsin50Days/tree/main/15-Incrementing-Counter)                  | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/15-Incrementing-Counter/)           |
 | 16  | [Drink-Water](https://github.com/cembicakci/50Projectsin50Days/tree/main/16-Drink-Water)                                    | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/16-Drink-Water/)                    |
 | 17  | [Movie-App](https://github.com/cembicakci/50Projectsin50Days/tree/main/17-Movie-App)                                        | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/17-Movie-App/)                
-| 06  | [Scroll-Animation](https://github.com/cembicakci/50Projectsin50Days/tree/main/06-Scroll-Animation)                          | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/06-Scroll-Animation/)                |
 | ---  | []()                            | [Live Demo]()                |
 
 
