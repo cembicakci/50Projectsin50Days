@@ -18,6 +18,9 @@ Incluedes mini projects which is created using HTML, CSS and JavaScript.
 | 15  | [Incrementing-Counter](https://github.com/cembicakci/50Projectsin50Days/tree/main/15-Incrementing-Counter)                  | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/15-Incrementing-Counter/)           |
 | 16  | [Drink-Water](https://github.com/cembicakci/50Projectsin50Days/tree/main/16-Drink-Water)                                    | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/16-Drink-Water/)                    |
 | 17  | [Movie-App](https://github.com/cembicakci/50Projectsin50Days/tree/main/17-Movie-App)                                        | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/17-Movie-App/)                
+| 18  | [Background-Slider](https://github.com/cembicakci/50Projectsin50Days/tree/main/18-Background-Slider)                        | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/18-Background-Slider/)              |
+| 19  | [Theme-Clock](https://github.com/cembicakci/50Projectsin50Days/tree/main/19-Theme-Clock)                                    | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/19-Theme-Clock/)                    |
+| 20  | [Button-Ripple-Effect](https://github.com/cembicakci/50Projectsin50Days/tree/main/20-Button-Ripple-Effect)                  | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/20-Button-Ripple-Effect/)         |
 | ---  | []()                            | [Live Demo]()                |
 
 
