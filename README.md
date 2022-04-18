@@ -32,7 +32,21 @@ Incluedes mini projects which is created using HTML, CSS and JavaScript.
 | 26  | [Double-Vertical-Slider](https://github.com/cembicakci/50Projectsin50Days/tree/main/26-Double-Vertical-Slider)              | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/26-Double-Vertical-Slider/)         |
 | 27  | [Toast-Notification](https://github.com/cembicakci/50Projectsin50Days/tree/main/27-Toast-Notification)                      | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/27-Toast-Notification/)             |
 | 28  | [Github-Profiles](https://github.com/cembicakci/50Projectsin50Days/tree/main/28-Github-Profiles)                            | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/28-Github-Profiles/)                |
+| 29  | [Double-Click-Heart](https://github.com/cembicakci/50Projectsin50Days/tree/main/29-Double-Click-Heart)                      | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/29-Double-Click-Heart/)             |
+| 30  | [Auto-Text-Effect](https://github.com/cembicakci/50Projectsin50Days/tree/main/30-Auto-Text-Effect)                          | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/30-Auto-Text-Effect/)               |
+| 31  | [Password-Generator](https://github.com/cembicakci/50Projectsin50Days/tree/main/31-Password-Generator)                      | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/31-Password-Generator/)             |
+| 32  | [Good-Cheap-Fast-Checkboxes](https://github.com/cembicakci/50Projectsin50Days/tree/main/32-Good-Cheap-Fast-Checkboxes)      | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/32-Good-Cheap-Fast-Checkboxes/)     |
+| 33  | [Notes-App](https://github.com/cembicakci/50Projectsin50Days/tree/main/33-Notes-App)                                        | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/33-Notes-App/)                      |
+| 34  | [Animated-Countdown](https://github.com/cembicakci/50Projectsin50Days/tree/main/34-Animated-Countdown)                      | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/34-Animated-Countdown/)             |
+| 35  | [Image-Carousel](https://github.com/cembicakci/50Projectsin50Days/tree/main/35-Image-Carousel)                              | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/35-Image-Carousel/)                 |
+| 36  | [Hoverboard](https://github.com/cembicakci/50Projectsin50Days/tree/main/36-Hoverboard)                                      | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/36-Hoverboard/)                     |  
+| 37  | []()                            | [Live Demo]()                |
+| 38  | []()                            | [Live Demo]()                |
+| 39  | []()                            | [Live Demo]()                |
+| 40  | []()                            | [Live Demo]()                |
+| 41  | []()                            | [Live Demo]()                |
 | ---  | []()                            | [Live Demo]()                |
+
 
 
 
