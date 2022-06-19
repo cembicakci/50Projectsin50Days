@@ -40,11 +40,12 @@ Incluedes mini projects which is created using HTML, CSS and JavaScript.
 | 34  | [Animated-Countdown](https://github.com/cembicakci/50Projectsin50Days/tree/main/34-Animated-Countdown)                      | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/34-Animated-Countdown/)             |
 | 35  | [Image-Carousel](https://github.com/cembicakci/50Projectsin50Days/tree/main/35-Image-Carousel)                              | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/35-Image-Carousel/)                 |
 | 36  | [Hoverboard](https://github.com/cembicakci/50Projectsin50Days/tree/main/36-Hoverboard)                                      | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/36-Hoverboard/)                     |  
-| 37  | []()                            | [Live Demo]()                |
-| 38  | []()                            | [Live Demo]()                |
-| 39  | []()                            | [Live Demo]()                |
-| 40  | []()                            | [Live Demo]()                |
-| 41  | []()                            | [Live Demo]()                |
+| 37  | [Pokedex](https://github.com/cembicakci/50Projectsin50Days/tree/main/37-Pokedex)                                            | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/37-Pokedex/)                        |
+| 38  | [Mobile-Tab-Navigation](https://github.com/cembicakci/50Projectsin50Days/tree/main/38-Mobile-Tab-Navigation)                | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/38-Mobile-Tab-Navigation/)          |
+| 39  | [Password-Strength-Background](https://github.com/cembicakci/50Projectsin50Days/tree/main/39-Password-Strength-Background)  | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/39-Password-Strength-Background/)   |
+| 40  | [3d-Background-Boxes](https://github.com/cembicakci/50Projectsin50Days/tree/main/40-3d-Background-Boxes)                    | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/40-3d-Background-Boxes/)            |
+| 41  | [Verify-Account-UI](https://github.com/cembicakci/50Projectsin50Days/tree/main/41-Verify-Account-UI)                        | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/41-Verify-Account-UI/)               |
+| 42  | [Live-User-Filter](https://github.com/cembicakci/50Projectsin50Days/tree/main/42-Live-User-Filter)                          | [Live Demo](https://cembicakci.github.io/50Projectsin50Days/42-Live-User-Filter/)                |
 | ---  | []()                            | [Live Demo]()                |
 
 
